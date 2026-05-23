@@ -1,9 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:DD0031&height=200&section=header&text=M.%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
+
 <div align="center">
 
-# M. Usman
-### Full Stack Software Engineer
-
-**Angular · .NET Core · Clean Architecture · Azure · SignalR**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Angular+%7C+.NET+Core+%7C+Clean+Architecture;Building+enterprise+apps+for+3%2B+years;Healthcare+%C2%B7+CRM+%C2%B7+ERP+%C2%B7+Property+Management;Based+in+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-usman-8bbbb727a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://musman30-portfolio.netlify.app/)
@@ -14,9 +13,7 @@
 
 ---
 
-## About Me
-
-Full Stack Developer with **3+ years** of experience building enterprise web applications across **Healthcare, CRM, ERP, and Property Management** domains. I specialize in Angular frontends with Signals-based reactivity and .NET Core backends following Clean Architecture — from database schema design to Azure cloud deployment.
+## 👨‍💻 About Me
 
 ```csharp
 var usman = new Developer
@@ -25,55 +22,54 @@ var usman = new Developer
     Role        = "Full Stack Software Engineer",
     Experience  = "3+ years",
     Location    = "Lahore, Pakistan 🇵🇰",
-    Focus       = new[] { "Angular Signals", "Clean Architecture", "Microservices", "Azure" },
+    Stack       = new[] { "Angular", ".NET Core 8", "Clean Architecture", "Azure", "SignalR" },
     CurrentlyAt = "SoftSteer Global Technologies",
+    Domains     = new[] { "Healthcare", "CRM", "ERP", "Property Management" },
     OpenTo      = "Senior Full Stack & Enterprise .NET opportunities"
 };
 ```
 
----
-
-## Tech Stack
-
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular_14--18-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-`Signals` `RxJS` `Reactive Forms` `Lazy Loading` `RouteReuseStrategy` `OnPush Change Detection` `Standalone Components`
-
-**Backend**
-![.NET Core](https://img.shields.io/badge/.NET_Core/8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-`Clean Architecture` `Repository Pattern` `Unit of Work` `Microservices` `JWT Auth` `RBAC` `MediatR` `CQRS`
-
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-
-`Azure App Service` `Azure Functions` `Azure Blob Storage` `CI/CD Pipelines`
-
-**Databases & Messaging**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-`Stored Procedures` `Query Optimization` `Indexing` `Schema Design` `N+1 Elimination`
+Full Stack Developer building high-performance enterprise applications. I architect scalable Angular frontends with Signals-based reactivity and clean .NET Core backends — from database schema design to Azure cloud deployment. I leverage **Claude AI & Cursor** throughout the SDLC to accelerate delivery without compromising quality.
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,react,js,tailwind,html,css&perline=7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker,git,jenkins,postman&perline=7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlserver,postgres,redis,rabbitmq,vscode,visualstudio,github&perline=7" />
+  </a>
+</p>
+
+<details>
+<summary><b>⚡ Detailed expertise</b></summary>
+<br/>
+
+| Layer | Skills |
+|-------|--------|
+| **Frontend** | Angular 14–18, TypeScript, RxJS, Angular Signals, Reactive Forms, Lazy Loading, RouteReuseStrategy, OnPush Change Detection, Standalone Components |
+| **Backend** | .NET Core/8, C#, ASP.NET Web API, SignalR, EF Core, Clean Architecture, Repository Pattern, Unit of Work, Microservices, MediatR, CQRS |
+| **Auth & Security** | JWT Authentication, RBAC, OAuth 2.0, Role-based Authorization |
+| **Cloud & DevOps** | Azure App Service, Azure Functions, Azure Blob Storage, Azure DevOps, CI/CD Pipelines, Docker, Jenkins |
+| **Databases & MQ** | SQL Server, PostgreSQL, Redis, RabbitMQ, Azure Service Bus, Stored Procedures, Query Optimization, N+1 Elimination |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -82,14 +78,14 @@ var usman = new Developer
 ### 💬 Real-Time Chat Application
 **[View Repository →](https://github.com/Usman78625/chatApp)**
 
-Full-stack messaging platform with real-time group chat and live presence.
+Full-stack real-time messaging platform with group management and live presence.
 
 `Angular 18` `·` `.NET 8` `·` `SignalR` `·` `Clean Architecture` `·` `SQL Server`
 
-- Live typing indicators & multi-tab online status tracking
+- Live typing indicators & multi-tab online status
 - Group creation, dynamic member management, read receipts
 - Message editing/deletion with JWT authentication
-- Angular Signals state management + EF Core migrations
+- Angular Signals state + EF Core migrations
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +97,7 @@ Workforce management system with automated real-time approval workflows.
 
 `Angular 17` `·` `.NET 8` `·` `SignalR` `·` `PrimeNG` `·` `Clean Architecture`
 
-- Real-time leave approval notifications via SignalR
+- Real-time leave approvals via SignalR notifications
 - Employee CRUD, attendance tracking, payroll management
 - Role-Based Access Control (RBAC) across all modules
 - Standalone components with Signals-based reactivity
@@ -118,9 +114,9 @@ Event creation, ticketing, and secure user management system.
 
 `ASP.NET Core MVC` `·` `SQL Server` `·` `EF Core` `·` `JWT`
 
-- Complex seat availability and booking validation logic
+- Complex seat availability & booking validation logic
 - Role-based authorization for admins and attendees
-- Optimized EF Core queries for high-concurrency scenarios
+- Optimized EF Core queries for concurrency
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +128,7 @@ Enterprise campaign management for wellness businesses.
 
 `Angular` `·` `.NET Core` `·` `Azure App Service` `·` `Azure Functions`
 
-- End-to-end campaign creation, scheduling & performance reporting
+- End-to-end campaign creation, scheduling & reporting
 - Audience targeting with automated triggers
 - SQL N+1 elimination & microservice-based REST APIs
 
@@ -142,16 +138,16 @@ Enterprise campaign management for wellness businesses.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman78625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman78625&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman78625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=DD0031&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman78625&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=c9d1d9)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Usman78625&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Usman78625&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=DD0031&currStreakLabel=0078D4)](https://git.io/streak-stats)
 
 ---
 
-## Professional Journey
+## 🏢 Experience
 
 ```
 Sep 2025 → Present    Software Engineer · SoftSteer Global Technologies
@@ -164,28 +160,18 @@ Sep 2024 → Mar 2025   Software Engineer · ISKAAN TECH LABS
                       CRM · Owner Portal · Tenant Portal · Property Management
 
 Jun 2023 → Aug 2024   Junior Software Engineer · Softaxe
-                      POS ERP System — Inventory · Sales Orders · Invoicing · Financial Reporting
+                      POS ERP System — Inventory · Sales Orders · Invoicing · Finance
 ```
 
 ---
 
-## Certifications & Education
+## 🎓 Education & Certifications
 
-**Certifications**
-`Anthropic Claude Skills` &nbsp;·&nbsp; `SQL Advanced` &nbsp;·&nbsp; `C#` &nbsp;·&nbsp; `Angular` &nbsp;·&nbsp; `JavaScript`
-
-**Education**
-**BS Electrical Engineering — Computing Specialization** &nbsp;`2020 – 2024`
+**BS Electrical Engineering — Computing Specialization** &nbsp;`2020 – 2024`  
 University of the Punjab, Quaid-e-Azam Campus, Lahore, Pakistan
+
+`Anthropic Claude Skills` &nbsp;·&nbsp; `SQL Advanced` &nbsp;·&nbsp; `C#` &nbsp;·&nbsp; `Angular` &nbsp;·&nbsp; `JavaScript`
 
 ---
 
-<div align="center">
-
-*Open to senior full stack and enterprise .NET opportunities*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-usman-8bbbb727a)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://musman30-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/usman30744@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usman30744@gmail.com)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:0078D4&height=120&section=footer&animation=fadeIn)
